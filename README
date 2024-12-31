@@ -1,19 +1,1 @@
-The meaning of each .py:
 
-part1：
-     static network uses unimproved algorithms
-
-temporal_yuan:
-    temporal network uses unimproved algorithms
-
-static_gai:
-    static network uses improved algorithms
-
-temporal：
-    temporal network uses improved algorithms
-
-read：
-    read data
-
-test：
-    test
